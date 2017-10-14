@@ -1,0 +1,11 @@
+F:\hile\SimpleExternal-development\SimpleExternal\Memory\bin\Release\Memory.dll
+F:\hile\SimpleExternal-development\SimpleExternal\Memory\bin\Release\Memory.pdb
+F:\hile\SimpleExternal-development\SimpleExternal\Memory\obj\Release\Memory.csprojResolveAssemblyReference.cache
+F:\hile\SimpleExternal-development\SimpleExternal\Memory\obj\Release\Memory.dll
+F:\hile\SimpleExternal-development\SimpleExternal\Memory\obj\Release\Memory.pdb
+C:\Users\said_\source\repos\SmurfBattle\SmurfBattle\Memory\bin\Release\Memory.dll
+C:\Users\said_\source\repos\SmurfBattle\SmurfBattle\Memory\bin\Release\Memory.pdb
+C:\Users\said_\source\repos\SmurfBattle\SmurfBattle\Memory\obj\Release\Memory.csprojResolveAssemblyReference.cache
+C:\Users\said_\source\repos\SmurfBattle\SmurfBattle\Memory\obj\Release\Memory.csproj.CoreCompileInputs.cache
+C:\Users\said_\source\repos\SmurfBattle\SmurfBattle\Memory\obj\Release\Memory.dll
+C:\Users\said_\source\repos\SmurfBattle\SmurfBattle\Memory\obj\Release\Memory.pdb
